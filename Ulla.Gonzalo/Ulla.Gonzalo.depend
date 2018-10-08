@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539038629 source:c:\users\alumno\desktop\ulla.gonzalo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1539037777 c:\users\alumno\desktop\ulla.gonzalo\validaciones.h
+
+1539041787 source:c:\users\alumno\desktop\ulla.gonzalo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
